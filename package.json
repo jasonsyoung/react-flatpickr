@@ -20,7 +20,7 @@
     "test:watch": "jest --watch --env=jsdom",
     "test:coverage": "jest --coverage --env=jsdom"
   },
-  "repository": "coderhaoxin/react-flatpickr",
+  "repository": "haoxins/react-flatpickr",
   "keywords": [
     "flatpickr",
     "react"
